@@ -6,14 +6,16 @@
     <description>Recent content in Posts on Jose Martinez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2023 12:15:24 -0700</lastBuildDate><atom:link href="http://josemtzg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2023 20:25:42 -0700</lastBuildDate><atom:link href="http://josemtzg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testpost</title>
-      <link>http://josemtzg.github.io/posts/testpost/</link>
-      <pubDate>Thu, 17 Aug 2023 12:15:24 -0700</pubDate>
+      <title>Zoom Add-in How to Guide</title>
+      <link>http://josemtzg.github.io/posts/how-to-guide-zoom-plugin/</link>
+      <pubDate>Sun, 10 Sep 2023 20:25:42 -0700</pubDate>
       
-      <guid>http://josemtzg.github.io/posts/testpost/</guid>
-      <description>´´´java print(¨Hola Mundo¨); ´´´</description>
+      <guid>http://josemtzg.github.io/posts/how-to-guide-zoom-plugin/</guid>
+      <description>Overview # This document describes the process for scheduling a Zoom meeting in Outlook for macOS and iOS.
+To schedule meetings using the Zoom add-in in Outlook, you need the following elements on your Apple device:
+Company’s Exchange or Microsoft 365 account Zoom account Zoom for Outlook add-in Installing the Zoom Add-in # The Zoom for Outlook add-in enables you to schedule meetings within the Outlook application. You can install the add-in on the following devices:</description>
     </item>
     
   </channel>

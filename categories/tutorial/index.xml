@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jose Martinez Site on Jose Martinez</title>
-    <link>http://josemtzg.github.io/</link>
-    <description>Recent content in Jose Martinez Site on Jose Martinez</description>
+    <title>tutorial on Jose Martinez</title>
+    <link>http://josemtzg.github.io/categories/tutorial/</link>
+    <description>Recent content in tutorial on Jose Martinez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Sep 2023 20:25:42 -0700</lastBuildDate><atom:link href="http://josemtzg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2023 20:25:42 -0700</lastBuildDate><atom:link href="http://josemtzg.github.io/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zoom Add-in How to Guide</title>
       <link>http://josemtzg.github.io/posts/how-to-guide-zoom-plugin/</link>
